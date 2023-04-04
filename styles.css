@@ -1,0 +1,21 @@
+.main-container
+{
+    display: flex;
+}
+.image-section
+{
+    background-color: black;
+    color:white;
+}
+ul{
+    list-style: none;
+    text-decoration:underline;
+}
+li
+{
+    color:blue;
+}
+li:hover
+{
+    cursor: pointer;
+}
